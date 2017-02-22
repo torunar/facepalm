@@ -1,9 +1,10 @@
-# facepalm.php
+# Facepalm
 
 >I've serialized data on a 64-bit server.
+>
 >Now I can't use it on my 32-bit machine!
 
-`//_-`
+//\_-
 
 ## About
 
