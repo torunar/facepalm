@@ -16,4 +16,4 @@ But first ask yourself a question: was usage of `serialize` all that necessary?
 
 ## How to
 
-    $ php facepalm.phph huge-enterprise-db.sql
+    $ php facepalm.php huge-enterprise-db.sql
